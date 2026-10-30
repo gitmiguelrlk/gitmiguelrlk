@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=+++++++++++++Miguel;Cybersecurity+Student;Web+Developer;SaaS+Founder;Ethical+Hacker+in+Training;Building+things+that+last." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=+++++++++++++Miguel;Junior+Cybersecurity+Student;Web+Developer;SaaS+Founder;Ethical+Hacker+in+Training;Building+things+that+last." alt="Typing SVG" />
 
 </div>
 
@@ -23,10 +23,11 @@
 
 ## about
 
-cybersecurity student with a builder's mindset.  
+junior cybersecurity student with a builder's mindset.  
 i develop professional websites for real businesses — clinics, stores, companies —  
 and ship AI-powered SaaS products. currently running my own.  
-learning offensive security the right way: ethically, methodically, relentlessly.
+learning offensive security the right way: ethically, methodically, relentlessly.  
+daily driver: linux. lab environment: kali.
 
 ---
 
@@ -39,6 +40,8 @@ learning offensive security the right way: ethically, methodically, relentlessly
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 </div>
 
